@@ -6,7 +6,6 @@
  * Smart Contract Source Code: https://github.com/HighDevelop/CRT
  * Web Site Source Code: https://github.com/HighDevelop/CRT
  *
- * Detailed Info: https://HighDevelop.medium.com/create-an-erc20-token-in-less-than-a-minute-2a8751c4d6f4
  *
  * NOTE: "Contract Source Code Verified (Similar Match)" means that this Token is similar to other tokens deployed
  *  using the same generator. It is not an issue. It means that you won't need to verify your source code because of
